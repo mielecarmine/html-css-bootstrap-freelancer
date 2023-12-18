@@ -1,4 +1,7 @@
 /* RESET UL LI A */
+img {
+  max-width: 100%;
+}
 
 ul,
 ol {
@@ -33,4 +36,11 @@ a {
 
 main section:nth-child(odd) {
   background-color: #1abc9c;
+}
+
+/* DEBUG */
+
+.debug {
+  height: 80px;
+  border: 2px solid black;
 }
