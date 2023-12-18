@@ -36,6 +36,7 @@ a {
 
 main section:nth-child(odd) {
   background-color: #1abc9c;
+  color: white;
 }
 
 /* DEBUG */
