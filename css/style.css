@@ -45,3 +45,7 @@ main section:nth-child(odd) {
   height: 80px;
   border: 2px solid black;
 }
+
+.message {
+  height: 170px;
+}
