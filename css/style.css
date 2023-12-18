@@ -1,0 +1,36 @@
+/* RESET UL LI A */
+
+ul,
+ol {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+/* ************ */
+
+.header-color {
+  background-color: #2c3e50;
+}
+
+.green {
+  background-color: #1abc9c;
+}
+
+.blue {
+  background-color: #3a546d;
+}
+
+.white {
+  color: white;
+}
+
+main section:nth-child(odd) {
+  background-color: #1abc9c;
+}
