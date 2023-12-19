@@ -34,6 +34,19 @@ a {
   color: white;
 }
 
+.bc-white {
+  background-color: white;
+}
+
+.bc-black {
+  background-color: black;
+}
+
+.line {
+  height: 3px;
+  width: 130px;
+}
+
 main section:nth-child(odd) {
   background-color: #1abc9c;
   color: white;
@@ -46,6 +59,18 @@ main section:nth-child(odd) {
   border: 2px solid black;
 }
 
+/* MY CLASSES */
+
 .ms_card {
   border: none;
+}
+
+#bootstrap svg {
+  width: 250px;
+}
+
+#contact-form input,
+#contact-form textarea {
+  border: none;
+  border-bottom: 1px solid gray;
 }
