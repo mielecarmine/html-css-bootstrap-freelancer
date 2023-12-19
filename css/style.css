@@ -46,6 +46,6 @@ main section:nth-child(odd) {
   border: 2px solid black;
 }
 
-.message {
-  height: 170px;
+.ms_card {
+  border: none;
 }
